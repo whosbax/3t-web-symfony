@@ -23,5 +23,6 @@ bundles/
 vendor/pkg/
 pyenv
 Vagrantfile
-app/
+app/*
+db_data/*
 .*
