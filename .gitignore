@@ -26,3 +26,4 @@ Vagrantfile
 app/*
 db_data/*
 .*
+!*.gitkeep
